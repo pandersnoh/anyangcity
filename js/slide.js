@@ -5,32 +5,44 @@
 		     dots: false,
 		     prevArrow: $('.prev'),
 		     nextArrow: $('.next'),    
-		     variableWidth: true, 
 			 responsive: [
 			    {
-			      breakpoint: 1200,
+			      breakpoint: 1600,
+			      settings: {
+			        slidesToShow: 6,
+			        slidesToScroll: 1
+			      }
+			    },
+			    {
+			      breakpoint: 1480,
+			      settings: {
+			        slidesToShow: 5,
+			        slidesToScroll: 1
+			      }
+			    },
+			    {
+			      breakpoint: 1280,
 			      settings: {
 			        slidesToShow: 4,
-			        slidesToScroll: 1,
-			        infinite: true,
+			        slidesToScroll: 1
 			      }
-			    },
+			    },			    			    
 			    {
-			      breakpoint: 992,
+			      breakpoint: 1024,
 			      settings: {
 			        slidesToShow: 3,
-			        slidesToScroll: 3
+			        slidesToScroll: 1
 			      }
 			    },
 			    {
-			      breakpoint: 768,
+			      breakpoint: 800,
 			      settings: {
 			        slidesToShow: 2,
 			        slidesToScroll: 2
 			      }
 			    },
 			    {
-			      breakpoint: 569,
+			      breakpoint: 580,
 			      settings: {
 			        slidesToShow: 1,
 			        slidesToScroll: 1
