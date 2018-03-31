@@ -304,6 +304,7 @@ a.nav-link:hover {
 	padding:16px;
 	display:block;
 	color:#3c60af;
+	font-weight:600;
 }
 .newscontent .newsdetail p {
 	padding:0 16px;
