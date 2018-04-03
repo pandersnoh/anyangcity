@@ -427,6 +427,8 @@ footer .footercopyright {
 @media (max-width: 991px) {
 	.navbar .container {
 		max-width:100% !important;
+		margin:0px !important;
+		padding:0px !important;
 	}
 	.mainnav .nav-item {
 		background:#f4731a;
