@@ -81,14 +81,15 @@ a.nav-link:hover {
 .ay-submenu > .dropdown.show {
 	position:static;
 }
-.ay-submenu > .dropdown.show .dropdown-menu,
-.fullmenu.show .dropdown-menu {
+.ay-submenu .dropdown.show .dropdown-menu,
+.ay-submenu .fullmenu.show .dropdown-menu {
 	display:table;
 	width:100%;
 	text-align:center;
 	left:0;
 	right:0;
 	border-top:0px;
+	border-right: 0px;
 	border-bottom:1px solid #f4731a;
 	border-radius:0px;
 }
