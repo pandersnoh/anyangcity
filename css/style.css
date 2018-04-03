@@ -504,6 +504,11 @@ footer .footercopyright {
 	.noticetab .nav-item .nav-link {
 		font-size:14px;
 	}
+	.newscontent .newsdetail .readmore {
+		margin:10px;
+		position:static;
+		float:right;
+	}		
 	footer .footerlogo {
 		text-align:center;
 	}
