@@ -82,7 +82,7 @@ a.nav-link:hover {
 	position:static;
 }
 .ay-submenu .dropdown.show .dropdown-menu,
-.ay-submenu .fullmenu.show .dropdown-menu {
+.fullmenu .dropdown-menu.show {
 	display:table;
 	width:100%;
 	text-align:center;
