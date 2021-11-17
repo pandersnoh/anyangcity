@@ -3,7 +3,7 @@
 포트폴리오 용도로 제작된 사이트로<br/>
 부트스트랩과 반응형 웹 학습을 목표로 제작하였습니다.
 
-구현결과 : https://pandersnoh.github.io/anyangcity/
+구현결과 : https://condescending-poincare-9a7bcb.netlify.app/
 
 ## 작업개요
 - 제작년도 : 2017년
